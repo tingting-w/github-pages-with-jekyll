@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Tingting's Lab Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+AI
